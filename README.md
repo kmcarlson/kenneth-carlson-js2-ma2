@@ -1,1 +1,1 @@
-# kenneth-carlson-js2-ma2
+# JavaScript 2 MA 2 files
